@@ -125,6 +125,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        // note to see if commit works
         add.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
